@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EuSei.iml" filepath="$PROJECT_DIR$/EuSei.iml" />
+      <module fileurl="file://C:\Users\ALUNO\AndroidStudioProjects\euseisegurancadainformacao\EuSei.iml" filepath="C:\Users\ALUNO\AndroidStudioProjects\euseisegurancadainformacao\EuSei.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\ALUNO\AndroidStudioProjects\euseisegurancadainformacao\app\app.iml" filepath="C:\Users\ALUNO\AndroidStudioProjects\euseisegurancadainformacao\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/euseisegurancadainformacao.iml" filepath="$PROJECT_DIR$/euseisegurancadainformacao.iml" />
     </modules>
   </component>
 </project>
